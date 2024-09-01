@@ -1,0 +1,2 @@
+- change color based on major/minor
+- brightness or saturation based on volume
